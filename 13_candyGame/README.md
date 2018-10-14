@@ -1,5 +1,5 @@
 ## Problem C. 吃糖果游戏
-时间限制 1000 ms
+时间限制 1000 ms    
 内存限制 128 MB
 
 ### 题目描述
@@ -19,25 +19,25 @@
 　　请注意大小写。
 
 ### 样例输入
-1 1
-1 2
-1 3
-1 4
-1 5
-2 1
-2 2
-2 3
-2 4
+1 1    
+1 2   
+1 3   
+1 4   
+1 5    
+2 1    
+2 2    
+2 3    
+2 4    
 2 5
-
+   
 ### 样例输出
-Matrix67
-Matrix67
-Matrix67
-Matrix67
-Matrix67
-Matrix67
-Shadow
-Shadow
-Matrix67
-Matrix67
+Matrix67    
+Matrix67    
+Matrix67    
+Matrix67    
+Matrix67    
+Matrix67    
+Shadow    
+Shadow    
+Matrix67    
+Matrix67     
